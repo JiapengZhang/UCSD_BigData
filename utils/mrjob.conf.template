@@ -2,14 +2,25 @@
 # for the students in the UCSD big data class
 # 
 runners:
+<<<<<<< HEAD
   name: dizzle-dassle
   owner: %s
+=======
+  name: give this job a name!
+  owner: Write your name here!
+>>>>>>> d1f988374d83195d0a7bbbcbd840c8592ae68e3a
   emr:
     # Region to connect to S3 and EMR on (e.g. us-west-1).
     aws_region: us-east-1
     aws_access_key_id: %s
     aws_secret_access_key: %s
+<<<<<<< HEAD
     # s3_log_uri: 
     #                    URI on S3 to write logs into
     # s3_scratch_uri: 
     #                    URI on S3 that is used as scratch space
+=======
+    s3_log_uri: s3://zhs015/logs
+    s3_scratch_uri: s3://zhs015/scratch
+
+>>>>>>> d1f988374d83195d0a7bbbcbd840c8592ae68e3a

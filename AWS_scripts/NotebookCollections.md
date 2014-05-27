@@ -1,5 +1,11 @@
 ## Notebooks created For Big Data Course ##
 
+<<<<<<< HEAD
+=======
+#### __[streaming]__  UCSD_BigData/notebooks/streaming/
+Streaming and statistical estimation algorithms
+
+>>>>>>> d1f988374d83195d0a7bbbcbd840c8592ae68e3a
 #### __[weather.MR]__ UCSD_BigData/notebooks/weather.mapreduce/
 A directory with a notebook for using mrjob on the weather data.
 Intended to be used with the complete dataset of 7.9 GB.
